@@ -49,7 +49,7 @@ User login interface for accessing the student dashboard.
 
 Displays all student records with edit and delete options.
 
-![Dashboard](Stud/dash.png)
+![Dashboard](Stud/Dash.png)
 
 ---
 
@@ -57,7 +57,7 @@ Displays all student records with edit and delete options.
 
 Users can search students by name using the search bar.
 
-![Search Filter](Stud/search.png)
+![Search Filter](Stud/Search.png)
 
 ---
 
@@ -65,7 +65,7 @@ Users can search students by name using the search bar.
 
 Modal form to add a new student.
 
-![Add Student](Stud/add.png)
+![Add Student](Stud/Add.png)
 
 ---
 
