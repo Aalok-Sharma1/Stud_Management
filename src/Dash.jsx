@@ -1,15 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import {
-  Container,
-  Row,
-  Col,
-  Card,
-  Button,
-  Modal,
-  Form,
-  Table
-} from "react-bootstrap";
+  Container,Row,Col,Card,Button,Modal,Form,Table} from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
 
 export default function Dash({ setIsLoggedIn }) {
